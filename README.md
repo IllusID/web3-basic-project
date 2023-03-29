@@ -93,3 +93,8 @@ npm run dev
 ```
 - Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+## Final words
+We hope you can deploy this project. If you are having any trouble, it probably something just update to newer version and you need to update the code. So good luck with that ( ͡° ͜ʖ ͡°).
+
+![image](https://user-images.githubusercontent.com/64829950/228454437-cf99c916-6a38-4bd6-90a1-0964ee2bbb91.png)
+
