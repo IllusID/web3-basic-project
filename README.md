@@ -1,3 +1,5 @@
+<h1>Web3 CRU (Create - Read - Update) Blog Project</h1>
+
 ## In this project we are using:
 - Blockchain: Polygon
 - Ethereum development environment: Hardhat
@@ -27,7 +29,7 @@ npx hardhat node
 ```
 Import test account that created by hardhat into Metamask.
 
-Create .env.local file within the folder and add the following code:
+Create **".env.local"** file within the folder and add the following code:
 ```bash
 ENVIRONMENT="local"
 NEXT_PUBLIC_ENVIRONMENT="local"
